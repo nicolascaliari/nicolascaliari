@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Nicolas Caliari</h1>
     <h3 align="center">Developer mobile React Native</h3>
 </div>
