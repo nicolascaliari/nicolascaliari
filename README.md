@@ -6,7 +6,6 @@
 ---
 
 ### 👨‍💻 About Me :
-- 🌐 My portfolio **https://nicolascaliari.netlify.app/**
 
 - 📝 I work as a full stack mobile app 
 
