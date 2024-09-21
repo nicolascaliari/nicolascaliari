@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack mobile app 
+- 📝 I work as a backend and devOps
 
 - 📫 How to reach me **nicolascaliari28@gmail.com**
 
